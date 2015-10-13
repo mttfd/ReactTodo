@@ -1,0 +1,21 @@
+{
+  "name": "reacttodo",
+  "version": "1.0.0",
+  "description": "excercise4",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-mttfd:mttfd/ReactTodo.git"
+  },
+  "author": "MT",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "normalize.css": "^3.0.3",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "underscore": "^1.8.3"
+  }
+}
